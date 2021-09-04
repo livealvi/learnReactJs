@@ -4,8 +4,24 @@ Run this React App on macOS, Windows, and Linux.
 
 ### Get Started
 
-> You **don’t** need to install or configure tools like **webpack or Babel**.<br>
-> Just **Clone or Download** this repository and goto the **project directory**<br>And **Install Node Module**
+> You **don’t** need to install or configure tools like **webpack or Babel**.
+<br>
+> Just **Clone or Download** this repository and goto the **project directory**
+<br>
+> And **Install Node Module**
+<br>
+> Start The App Using **Command**
+
+## Note
+
+- This Markdown (README) is **not complete** or well documented
+  <br>- _Learning in progress_
+
+- Sometimes run this app might be **crash** or **error**
+  <br>- _Learning in progress_
+
+- Maybe **1** or **more projects** in this repository <br>- _Based on Udemy Course_
+
 
 ## Quick Overview - Download & Run
 
@@ -17,16 +33,6 @@ npm start
 ```
 
 Then open [http://localhost:3000/](http://localhost:3000/) to see this app.<br>
-
-## Note
-
-- This Markdown (README) is **not complete** or well documented
-  <br>- _Learning in progress_
-
-- Sometimes run this app might be **crash** or **error**
-  <br>- _Learning in progress_
-
-- Maybe **1** or **more projects** in this repository <br>- _Based on Udemy Course_
 
 ### - Thank You.
 
