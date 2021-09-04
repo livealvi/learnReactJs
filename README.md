@@ -3,13 +3,13 @@
 Run this React App on macOS, Windows, and Linux.
 
 ### Get Started
- > You **don’t** need to install or configure tools like **webpack or Babel**.
-<br>
- > Just **Clone or Download** this repository and goto the **project directory**
-<br>
- > And **Install Node Module**
-<br>
- > Start The App Using **Command**
+> You **don’t** need to install or configure tools like **webpack or Babel**.
+>
+> Just **Clone or Download** this repository and goto the **project directory**
+>
+> And **Install Node Module**
+>
+> Start The App Using **Command**
 
 ## Note
 
