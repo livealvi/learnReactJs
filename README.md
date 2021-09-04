@@ -1,4 +1,4 @@
-# This Learning Project based from Udemy
+# This Project based on [Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/ "React - The Complete Guide (incl Hooks, React Router, Redux)")
 
 Run this React App on macOS, Windows, and Linux.
 
@@ -20,8 +20,13 @@ Then open [http://localhost:3000/](http://localhost:3000/) to see this app.<br>
 
 ## Note
 
+- This Markdown (README) is **not complete** or well documented
+  <br>- _Learning in progress_
+
 - Sometimes run this app might be **crash** or **error**
-  <br>- _Beacuse this is not a complete project._
+  <br>- _Learning in progress_
+
+- Maybe **1** or **more projects** in this repository <br>- _Based on Udemy Course_
 
 ### - Thank You.
 
