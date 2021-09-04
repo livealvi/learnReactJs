@@ -18,14 +18,10 @@ npm start
 
 Then open [http://localhost:3000/](http://localhost:3000/) to see this app.<br>
 
-<br>
-
 ## Note
 
 - Sometimes run this app might be **crash** or **error**
   <br>- _Beacuse this is not a complete project._
-
-<br>
 
 ### - Thank You.
 
