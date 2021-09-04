@@ -12,17 +12,9 @@ Run this React App on macOS, Windows, and Linux.
 >
 > Start The App Using **Command**
 
-## Note
-
-- This Markdown (README) is **not complete** or well documented
-  <br>- _Learning in progress_
-
-- Sometimes run this app might be **crash** or **error**
-  <br>- _Learning in progress_
-
-- Maybe **1** or **more projects** in this repository <br>- _Based on Udemy Course_
-
 ## Quick Overview - Download & Run
+
+### Expense Tracker
 
 ```sh
 git clone https://github.com/livealvi/learnReactJs
@@ -32,6 +24,16 @@ npm start
 ```
 
 Then open [http://localhost:3000/](http://localhost:3000/) to see this app.<br>
+
+## Note
+
+- This Markdown (README) is **not complete** or well documented
+  <br>- _Learning in progress_
+
+- Sometimes run this app might be **crash** or **error**
+  <br>- _Learning in progress_
+
+- Maybe **1** or **more projects** in this repository <br>- _Based on Udemy Course_
 
 ### - Thank You.
 
