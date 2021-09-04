@@ -3,6 +3,7 @@
 Run this React App on macOS, Windows, and Linux.
 
 ### Get Started
+
 > You **don’t** need to install or configure tools like **webpack or Babel**.
 >
 > Just **Clone or Download** this repository and goto the **project directory**
@@ -21,12 +22,11 @@ Run this React App on macOS, Windows, and Linux.
 
 - Maybe **1** or **more projects** in this repository <br>- _Based on Udemy Course_
 
-
 ## Quick Overview - Download & Run
 
 ```sh
 git clone https://github.com/livealvi/learnReactJs
-cd learnReactJs/my-app/
+cd learnReactJs/expense-tracker/
 npm install
 npm start
 ```
