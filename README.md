@@ -1,11 +1,11 @@
-# This Learning Project based from Udemy 
+# This Learning Project based from Udemy
 
 Run this React App on macOS, Windows, and Linux.
-### Get Started
->You **don’t** need to install or configure tools like **webpack or Babel**.<br>
->Just **Clone or Download** this repository and goto the **project  directory**<br>And **Install Node Module**
 
-<br>
+### Get Started
+
+> You **don’t** need to install or configure tools like **webpack or Babel**.<br>
+> Just **Clone or Download** this repository and goto the **project directory**<br>And **Install Node Module**
 
 ## Quick Overview - Download & Run
 
@@ -20,10 +20,10 @@ Then open [http://localhost:3000/](http://localhost:3000/) to see this app.<br>
 
 <br>
 
-
 ## Note
-- Sometimes run this app might be **crash** or **error** 
-  <br>- *Beacuse this is not a complete project.*
+
+- Sometimes run this app might be **crash** or **error**
+  <br>- _Beacuse this is not a complete project._
 
 <br>
 
