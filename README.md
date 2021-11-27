@@ -1,6 +1,6 @@
-# This Project based on [Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/ "React - The Complete Guide (incl Hooks, React Router, Redux)")
+# This Project based on [Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/ "React - The Complete Guide (incl Hooks, React Router, Redux)") & [YouTube](https://youtu.be/QFaFIcGhPoM "ReactJS Tutorial for Beginners")
 
-Run this React App on macOS, Windows, and Linux.
+Run this React App on macOS, Windows, and Linux. Please Check Git Branch
 
 ### Get Started
 
@@ -31,7 +31,7 @@ Then open [http://localhost:3000/](http://localhost:3000/) to see this app.<br>
   <br>- _Learning in progress_
 
 - Sometimes run this app might be **crash** or **error**
-  <br>- _Learning in progress_
+  <br>- _Learning in progress & depends on git commit_
 
 - Maybe **1** or **more projects** in this repository <br>- _Based on Udemy Course_
 
